@@ -1,0 +1,20 @@
+# Frontend
+Frontend/node_modules
+Frontend/.vite
+Frontend/.env
+Frontend/dist
+
+# Backend
+Backend/node_modules
+Backend/.env
+
+# Root env
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
